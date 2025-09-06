@@ -1,0 +1,138 @@
+JavaScript Basics
+
+Roadmap
+Overview
+Features
+Enabling
+Plavement
+Syntax
+Hello World
+Console.log()
+Comments
+Variables
+let Statement
+Constants
+Data Types
+Type Conversions
+Strict Mode
+Resereved Keywords
+
+JavaScript Operators
+
+Operators
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Bitwise Operators
+Assignment Operators
+Conditional Operators
+typeOf Oeprator
+Nullish Coalescing Operator
+Delete Operator
+Comma Operator
+Grouping Operator
+Yield Operator
+Spread Oeprator
+Exponentiation Operator
+Operator Precedence
+
+Control Flow
+
+If...Else
+While Loop
+For Loop
+For... in
+For...of
+Loop Control
+Break Statement
+Continue Statement
+Switch Case
+Use Defined Iterators
+
+
+JavaScript Functions
+Functions
+Function Expression
+Function Parameters
+Default Parameters
+Function() Constructor
+Function Hoisting
+Self-Invoking Functions
+Arrow Functions
+Function Invocation
+Function Call
+Function apply()
+Function bind()
+Closures
+Variable Scope
+Global Variables
+Smart Function Parameters
+
+
+JavaScript Objects
+
+Number
+Boolean
+Strings
+Arrays
+Date
+DataView
+Handler
+Math
+RegEx
+Symbol
+Sets
+WeakSet
+Maps
+WeakMap
+Iterables
+Reflexct
+TypedArray
+Template Literals
+Tagged Templates
+
+Object Oriented JavaScript
+
+Objects
+Classes
+Object Properties
+Obejct Methods
+Static Methods
+Display Objects
+Object Accessors
+Object COntructors
+Native Prototypes
+ES5 Object Methods
+Encapsulation
+Inheritance
+Abstraction
+Polymorphism
+Destructing
+Destructing Assignment
+Object Destructing
+Array Destructing
+Nested Destructing
+Optional Chaining
+Global Object
+Mixins
+Proxies
+
+
+
+JavaScript Versions
+
+History
+Versions
+ES5
+ES6
+ECMAScript 2016
+ECMAScript 2017
+ECMAScript 2018
+ECMAScript 2019
+ECMAScript 2020
+ECMAScript 2021
+ECMAScript 2022
+
+
+
+
