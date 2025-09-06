@@ -1,0 +1,102 @@
+Advanced Chapters
+
+Bubble Sort Algorithm
+Circular Reference Error
+Code Testing with Jest
+CORS Handling
+Data Analysis
+Dead Zone
+Design Patterns
+Engine and Runtime
+Execution Context
+Function Composition
+Immutability
+Kaboom.js
+Lexical Scope
+Local Storage
+Memoization
+Minifying JS
+Mutability and Immutability
+Package Manager
+Parse S-Expressions
+Prototypal Inheritance
+Reactivity
+Require Function
+Selection API
+Session Storage
+SQL CRUD Operations
+Supercharges Sorts
+Temporal Dead Zone
+Throtting
+TRPC Library
+Truthy and Falsy values
+Upload Files
+Date Comparison
+Recursion
+Data Structures
+Base64 Encoding
+Callback Function
+Current Date/Time
+Date Validation
+Filter Method
+Generating Colors
+HTTP Requests
+Insertion Sort
+Lazy Loading
+LinkedList
+Nested Loop
+Null Checking
+Get Current URL
+GRaph Algorithms
+Higher Order Functions
+Empty String Check
+Form Handling
+Functional Programming
+Parameters vs Argumetns
+Prototype
+Reactive PRogramming
+Reduce Method
+Rest Operator
+Short Circuiting 
+Undefined Check
+Unit Testing
+Validate URL
+
+
+JavaScript Miscellaneous
+
+AJAX
+Async Iteration
+Atomics Objects
+Rest Parameter
+Page Redirect
+Dialog Boxes
+Page PRinting
+Validations
+Animation
+Multimedia
+Image Map
+BRowsers
+JSON
+Multiline Strings
+Date Formats
+Get Date Methods
+Set Date Methods
+Modules
+Dyanmic Imports
+BigInt
+Blob
+Unicode
+Shallow Copy
+Call Stack
+Reference Type
+IndexedDB
+Clickjacking Attack
+Currying
+Graphics
+Canvas
+Debouncing
+Performance
+Stly Guide
+
+
