@@ -1,0 +1,29 @@
+<html>
+<body>
+   <button onclick = "writeText()"> Add HTML </button>
+
+   <div id="parentDiv">
+    <button id="myButton" onclick="add_adjacent()">
+        Press This Button to make an adjacent HTML element
+    </button>
+    <p id="child"></p>
+   </div>
+   <script>
+    function writeText(){
+        document.write("<p> Hello There, this is Keira, this text is written using document.write method in embedded JS");
+    }
+
+    function add_adjacent(){
+        let myNewElement = document.createElement('p');
+        myNewElement.textContent = 'This is a new element';
+        myNewElement.style.backgroundColor = 'lightgreen';
+        document.getElementById('parentDiv').insertAdjacentElement('beforebegin', myNewElement);
+        docuemnt.getElementById('child').textContent = 'After: ';
+
+        
+    }
+    
+      
+   </script>
+</body>
+</html>
