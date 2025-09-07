@@ -1,1 +1,15 @@
 
+<html>
+    <head>
+        <title> DOM Elements</title>
+    </head>
+    <body>
+        <div name="text"> Hello World, this is Keira!</div>
+        <div id="output"> The content above is: </div>
+
+    </body>
+    <script>
+        const element = document.getElementsByName('text');
+        document.getElementById("output").innerHTML += element[0].innerHTML;
+    </script>
+</html>
